@@ -1,5 +1,3 @@
-Game store project website code
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
